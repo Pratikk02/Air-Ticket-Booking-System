@@ -1,4 +1,4 @@
-//progra mto  book tickets and view the respective boarding passes using simple class functions
+//program to  book tickets and view the respective boarding passes using simple class functions
 #include<fstream.h>
 #include<conio.h>
 #include<string.h>
