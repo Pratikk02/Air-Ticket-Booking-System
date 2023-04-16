@@ -203,7 +203,6 @@ void main()
 	int opt;
 	clrscr();
 	airport a1;
-	cout<<"\t\t\t\tCOMPUTER PROJECT";
 cout<<"\n\t\t\t\tAIRPORT MANAGEMENT\n\t\t\t";
 for (int i=0;i<12;i++)
 cout<<"-";
